@@ -1,0 +1,48 @@
+## Engenharia de Prompts e "Cicatrizes"
+
+Durante o uso do NotebookLM, foram elaborados diferentes prompts com o objetivo de explorar o conteúdo de neurociência de forma mais profunda e estratégica.
+
+### Prompts Utilizados
+
+1. "Explique de forma simples como os neurônios funcionam."
+2. "Como ocorre o processo de aprendizagem no cérebro?"
+3. "Qual a relação entre emoções e memória?"
+4. "Resuma os principais conceitos de neurociência presentes nas fontes."
+5. "Crie um resumo estruturado sobre o funcionamento do cérebro."
+
+---
+
+###  Variações de Prompts
+
+- "Explique como se eu fosse iniciante"
+- "Resuma em tópicos"
+- "Explique com exemplos do dia a dia"
+- "Liste os principais conceitos com definições simples"
+
+Essas variações ajudaram a obter respostas mais claras e adaptadas ao nível de entendimento desejado.
+
+
+
+### Dificuldades Encontradas (Cicatrizes)
+
+- Algumas respostas da IA eram muito genéricas;
+- Em certos casos, faltavam exemplos práticos;
+- Respostas longas dificultavam a compreensão inicial;
+- Nem sempre a IA focava exatamente no conteúdo das fontes.
+
+
+### Estratégias para Melhorar os Resultados
+
+- Refinamento dos prompts com mais contexto;
+- Solicitação de exemplos práticos;
+- Pedido de respostas em formato de lista;
+- Uso de linguagem mais específica (ex: "explique passo a passo").
+
+---
+
+### Aprendizados
+
+- A qualidade da resposta depende diretamente da clareza do prompt;
+- Testar variações é essencial para obter melhores resultados;
+- A IA é mais eficiente quando guiada com instruções específicas;
+- O processo de tentativa e erro faz parte do aprendizado com IA.
